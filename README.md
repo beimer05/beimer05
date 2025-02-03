@@ -10,11 +10,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a str
 - **Languages:** C#, .NET Core
 - **Databases:** SQL Server, PostgreSQL
 
-### Mobile Development:
-- **Frameworks:** Xamarin, Ionic
 
 ### Frontend Development:
-- **Frameworks and Libraries:** Angular, React (some experience)
+- **Frameworks and Libraries:** Boostrap (some experience)
 
 
 
