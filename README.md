@@ -38,5 +38,7 @@ Thanks for stopping by! 🚀
 ## Memento design pattern
 https://youtu.be/r74XS4eurIs
 
+[![Watch the video](https://img.youtube.com/vi/r74XS4eurIs/hqdefault.jpg)](https://www.youtube.com/watch?v=r74XS4eurIs)
+
 
 
