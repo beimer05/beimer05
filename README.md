@@ -33,5 +33,10 @@ Feel free to explore my repositories and contribute. Collaboration and knowledge
 
 Thanks for stopping by! 🚀
 
+## These are a set of videos where you can watch the differents design patterns
+
+## Memento design pattern
+https://youtu.be/r74XS4eurIs
+
 
 
