@@ -42,6 +42,7 @@ https://youtu.be/r74XS4eurIs
 
 ## Flyweight design pattern
 https://youtu.be/RSqj1LLffKE
+
 [![Watch the video](https://img.youtube.com/vi/RSqj1LLffKE/hqdefault.jpg)](https://www.youtube.com/watch?v=RSqj1LLffKE)
 
 
