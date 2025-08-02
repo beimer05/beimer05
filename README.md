@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a str
 
 ### Backend Development:
 - **Languages:** C#, .NET Core
-- **Databases:** SQL Server, PostgreSQL
+- **Databases:** SQL Server
 
 
 ### Frontend Development:
@@ -17,14 +17,14 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with a str
 
 
 ## 🌟 About Me
-- 💼 I have experience working on various software projects, from backend systems to mobile apps.
+- 💼 I have experience working on various software projects, from backend systems to web apps.
 - 🌱 I’m always eager to learn new technologies and improve my development skills.
 - 🔍 Currently exploring advanced concepts in algorithms and ways to optimize software solutions.
 
 ## 📈 What I Work On
-- Developing cross-platform mobile applications.
+- Developing cross-platform web applications.
 - Designing and managing databases for robust backend systems.
-- Building user-friendly frontend interfaces with Angular and React.
+
 
 
 
